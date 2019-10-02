@@ -1,4 +1,13 @@
 <html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles/base.css" >
+
+</head>
+<body>
+  <style>
+  body{background-color: C0C0C0;}
+  font-family: verdana
+  </style>
 <form action="mydata.php" method="POST">
     <fieldset>
 
@@ -29,7 +38,7 @@
       </p>
 
           <p>
-            Comment: <textarea name="comment" rows="5" cols="40"></textarea><br><p>
+            Comment: <textarea name="comment" rows="1" cols="20"></textarea><br><p>
           </p>
     </fieldset>
 
@@ -38,4 +47,6 @@
     </p>
 
 </form>
+</body>
 </html>
+</form>
