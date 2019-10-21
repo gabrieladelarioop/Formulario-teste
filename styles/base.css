@@ -1,7 +1,13 @@
-<html>
-<style>
+
 header {
-  background-color: 4F4F4F;
+  background-color: 8FBC8F;
+  background-image: "https://i.ytimg.com/vi/A-aI75toM8k/maxresdefault.jpg";
 }
-</style>
-</html>
+input {
+  font-size: 25px
+  comment:25px
+}
+
+  body{background-color: 191970;}
+  font-family: verdana
+}
