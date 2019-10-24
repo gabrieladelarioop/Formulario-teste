@@ -25,7 +25,7 @@
       <input name="email" id="email" type="text" required/>
     </p>
     <p>
-      <label for="address">address:<em class="required">(obrigatório)</em></label>
+      <label for="address">Address:<em class="required">(obrigatório)</em></label>
     </p>
     <p>
       <input name="address" id="address" type="text" required/>
@@ -52,7 +52,7 @@
         <input name="CPF" id="CPF" type="text" required/>
      </p>
     <p>
-      Comment: <textarea name="comment" rows="1" cols="20"></textarea><br><p>
+      Comment: <textarea name="comment" id="comment" rows="1" cols="20"></textarea><br><p>
      </p>
   </div>
       <p>

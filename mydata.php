@@ -28,7 +28,8 @@ if (empty($_POST["age"])){
 
 else{
 ?>
- Name<?php echo $_POST["name"]; ?><br>
+Welcome! <br>
+Name: <?php echo $_POST["name"]; ?><br>
 Email: <?php echo $_POST["email"]; ?><br>
 Endereço: <?php echo $_POST["address"]; ?><br>
 Telefone: <?php echo $_POST["telephone"]; ?><br>
